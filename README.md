@@ -9,6 +9,9 @@ The compilation of R learning resources.
 ### Intermediate
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 
+## Data Science courses:
+- [Earth Analytics Course](https://earthdatascience.org/courses/earth-analytics/)
+
 ## Data Visualization
 - [ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
